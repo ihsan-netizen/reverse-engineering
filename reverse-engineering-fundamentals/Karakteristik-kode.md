@@ -531,7 +531,7 @@ Terakhir, perbedaan gaya penulisan sintaks antara **Intel** dan **AT&T** sangat 
 
 ---
 
-````markdown
+
 # 3.2 x86-64
 
 Setelah sebelumnya melihat bagaimana compiler menghasilkan kode untuk arsitektur x86 32-bit, sekarang kita akan melihat bagaimana hasil kompilasi berubah ketika target arsitekturnya menggunakan **x86-64** atau sering disebut juga **AMD64**.
@@ -929,11 +929,8 @@ Bagi seorang programmer biasa perbedaan ini tidak terlihat karena compiler menan
 
 Namun dalam reverse engineering, debugging tingkat rendah, atau analisis malware, memahami aturan ini sangat penting karena kita harus mampu membaca bagaimana sebuah fungsi menerima dan mengirim data.
 
-```
 
 
-
-````markdown
 # 3.3 GCC — one more thing
 
 Pada pembahasan sebelumnya kita sudah mengetahui bahwa string literal dalam bahasa C/C++ memiliki sifat **const**.
