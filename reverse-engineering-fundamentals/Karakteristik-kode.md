@@ -1531,13 +1531,8 @@ ditambah byte:
 
 sebagai terminator string C.
 
-```
 
----
 
-Saya lanjutkan catatan dengan format yang sama. Saya mulai dari **lanjutan thunk-function → 3.4.5 ARM64 → pengantar MIPS**. Karena bagian ini panjang, saya akan pecah agar tetap mudah dibaca.
-
-````markdown id="m7kq29"
 ## More about Thunk Functions
 
 Konsep **thunk function** sering terasa membingungkan karena namanya sendiri kurang menggambarkan fungsinya.
